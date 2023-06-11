@@ -34,3 +34,5 @@ elif num_kurs == 3:
     print(f"{sum_tg / dict_kurs['RUB']} RUB")
 else:
     print("Введите число от 1 до 3")
+
+
